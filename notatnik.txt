@@ -1,0 +1,18 @@
+Temat: Powtórka wyrażenie warunkowe skrótowe
+= operator przypisania
+== operator porównania
+=== opertor porównania wartości i typu ziennej 
+def: pętli for
+for)start,warunek stopu, operator incrementacji/decrementacji){
+//kod wykonujący się tyle razy dopóki nie osiągnięto war.stop
+}
+operator increment: to taki, który przyjmuje postać:
+zmienne++; zwiększ wartość o 1 po każdym przejściu pętli 
+"zmienna = zmienna +1;" to samo co "zmienna++;" to samo  co "zmienna +=1;"
+
+operator decrementacji:
+zmienna--;
+zmienna = zmienna - 1;
+zmienna -=1;
+
+zmienna++; ++zmienna;
